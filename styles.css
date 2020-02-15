@@ -1,0 +1,59 @@
+body{
+    background: rgb(20, 20, 20);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Postcard{
+background: white;
+width: 500px;
+height: 350px;
+margin: auto;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+padding: 15px;
+}
+
+header{
+    height: 30px;
+}
+
+
+h1 {
+float: left;
+margin-right: 150px;
+}
+
+img{
+width: 20%;
+}
+
+.left{
+    float: left;
+    width: 50%;
+}
+
+.right{
+    float: right;
+    width: 50%;
+    position: absolute;
+    right: -42px;
+    top: 140px;
+}
+
+footer{
+position: absolute;
+top: 324px;
+right: 216px;
+}
+
+.button{
+background:gray;
+height: 40px;
+}
+
+
+
+
